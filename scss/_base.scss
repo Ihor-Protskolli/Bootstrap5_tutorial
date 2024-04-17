@@ -22,8 +22,10 @@ section {
 
 a {
   color: #111;
+  transition: all 0.34s ease 0s !important;
 }
 
 a:hover {
   color: #555 !important;
+  transition: all 0.34s ease 0s !important;
 }
